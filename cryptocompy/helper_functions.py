@@ -77,6 +77,7 @@ def load_data(url):
     """
 
     # http request
+    print(url)
     r = requests.get(url)
 
     # decode to json
