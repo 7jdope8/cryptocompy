@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(name='cryptocompy',
       packages=['cryptocompy'],
-      version='0.1.1.dev1',
+      version='0.1.2',
       description='Simple wrapper for the public Cryptocompare API.',
       keywords = '',
       author='Titian Steiger',
